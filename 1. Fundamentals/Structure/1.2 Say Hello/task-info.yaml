@@ -7,7 +7,7 @@ files:
   - name: src/SayHello.java
     visible: true
     placeholders:
-      - offset: 78
+      - offset: 77
         length: 41
         placeholder_text: /* Replace this line with your answer. */
         initial_state:
